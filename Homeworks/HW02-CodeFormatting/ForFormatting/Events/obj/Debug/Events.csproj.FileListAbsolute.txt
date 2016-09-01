@@ -1,0 +1,8 @@
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Events\bin\Debug\Events.exe.config
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Events\bin\Debug\Events.exe
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Events\bin\Debug\Events.pdb
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Events\bin\Debug\ClassLibrary2.dll
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Events\bin\Debug\ClassLibrary2.xml
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Events\obj\Debug\Events.exe
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Events\obj\Debug\Events.pdb

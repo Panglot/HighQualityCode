@@ -1,0 +1,6 @@
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Bunnies\bin\Debug\Bunnies.exe.config
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Bunnies\bin\Debug\Bunnies.exe
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Bunnies\bin\Debug\Bunnies.pdb
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Bunnies\obj\Debug\Bunnies.csprojResolveAssemblyReference.cache
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Bunnies\obj\Debug\Bunnies.exe
+H:\Telerik-Work\High Quality Code\HW02-CodeFormatting\ForFormatting\Bunnies\obj\Debug\Bunnies.pdb
